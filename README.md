@@ -1,2 +1,2 @@
 # js-hangman
-A JavaScript Hangman Game
+A JavaScript Hangman Game using CSS Grid.
